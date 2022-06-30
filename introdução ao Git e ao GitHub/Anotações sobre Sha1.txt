@@ -1,0 +1,5 @@
+Sha1
+
+a Sigla Sha1 significa "Secure Hash Algorithm" (algoritmo de hash seguro), é um conjunto de funções hash criptograficas projetadas pela NSA (Agencia de segurança nacional dos EUA)
+
+A encriptação gera conjunto de characteres identificador de 40 digitos.
