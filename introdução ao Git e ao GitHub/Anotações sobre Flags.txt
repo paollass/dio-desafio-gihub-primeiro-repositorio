@@ -1,0 +1,7 @@
+Flags 
+
+a- (mostra arquivos ocultos)
+
+cd.. (volta um nivel)
+
+m- (é a mensagem para descrever seu commit)
