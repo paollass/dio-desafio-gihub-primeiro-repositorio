@@ -1,0 +1,25 @@
+Comandos Básicos de Navegação (Windows)
+
+- Mudar nome de pasta -> cd 
+- Listar as pastas -> Dir
+- Criar pastas/arquivos -> mkdir
+- Deletar pastas/arquivos -> del/rmdir
+
+Comandos Básicos de Navegação (Unix)
+
+- Mudar nome de pasta -> cd 
+- Listar as pastas -> Ls
+- Criar pastas/arquivos -> mkdir
+- Deletar pastas/arquivos -> rm/rf
+
+Comando para mover -> mv
+
+Echo (Printa de volta no terminal uma frase/um texto)
+
+      (Echo é um redirecionador de fluxo)
+
+git status -> Ajuda a monitorar os status do arquivo
+
+Tab -> autocompleta
+
+Crtl + L -> Clear 
