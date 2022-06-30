@@ -1,0 +1,8 @@
+Markdown
+
+Markdown -> Ele nada mais é que uma forma mais humana de escrever um arquivo HTML
+
+Arquivo HTML -> É o esqueleto/ a arquitetura básica de qualquer página da web
+
+(Todo arquivo Markdown tem a extensão ".md" no final)
+
