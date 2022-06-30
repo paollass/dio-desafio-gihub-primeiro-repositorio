@@ -1,0 +1,20 @@
+Commmit 
+
+(Para clonar um repositório)
+Use os seguintes comandos -> Git clone + botão direito do mouse + selecionar opção -> PASTE
+
+(Enviar um arquivo para o git) 
+
+Comandos -> Git add . (Enter) 
+
+Git push (Enter)
+
+Git commit -m. "" (O que estiver entre as aspas será a mensagem que irá aparecer no initial commit)
+
+Git init (Para inicializar e possibilitar que o git comece de fato a gerenciar e vercionar nosso código)
+
+1 (git add. Vai preparar as alterações que você fez para serem enviadas, mas aqui, elas ainda não foram enviadas.)
+
+2 (git commit. O git commit está “empacotando” as alterações que o comando git add preparou para serem enviadas.)
+
+3 (git push. Enviará de fato essas alterações.)
